@@ -11,3 +11,10 @@ test:
   username: root
   password:
   host: localhost
+
+production:
+  adapter: mysql2
+  database: movies_development
+  username: root
+  password:
+  host: localhost
